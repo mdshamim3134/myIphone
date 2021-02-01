@@ -58,7 +58,7 @@ int widht=d.width;
 TouchActions t=new TouchActions(dr);
 t.click(dr.findElement(By.id("")));
 t.doubleTap(dr.findElement(By.id("")));
-System.out.println(1);
+System.out.println(2);
 
 
 
