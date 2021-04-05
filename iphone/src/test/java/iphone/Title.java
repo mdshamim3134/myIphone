@@ -10,7 +10,12 @@ public class Title {
 	System.out.println("current url"+" "+url);
 	String title=	dr.getTitle();
 	System.out.println("destination page of dress"+title);
-	
+	JSONParser parse=new JSONParse();
+	p
+
+
+
+
 	}
 
 }
